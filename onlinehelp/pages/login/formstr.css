@@ -1,0 +1,70 @@
+.form{
+			
+    	background-color:;
+      border: none;
+      text-decoration: none;
+      margin: 4px 2px;
+      cursor: pointer;
+      position: relative;
+      width: 550px;
+      margin: 0 auto;
+      background: rgba(130,130,130,.3);
+       padding: 20px 22px;
+       border: 2px solid;
+       border-radius: 5px;
+       padding: 20px;
+       font-size:20;
+       border-top-color: rgba(255,255,255,.4);
+        border-left-color: rgba(255,255,255,.4);
+        border-bottom-color: rgba(60,60,60,.4);
+        border-right-color: rgba(60,60,60,.4);
+		
+		}
+		
+		
+		.registerbtn {
+  background-color: #2F4F4F; 
+  color: white;
+  padding: 16px 20px;
+  margin: 8px 0;
+  border: none;
+  cursor: pointer;
+  width: 30%;
+  opacity: 0.9;
+  float:none; 
+}
+	
+	input[type=text], select, textarea {
+    width: 60%; 
+    padding: 12px; 
+    border: 1px solid #ccc; 
+    border-radius: 4px;
+    box-sizing: border-box;  
+    margin-top: 6px; 
+    margin-bottom: 16px; 
+    resize: vertical ;
+
+}
+input[type=password]{
+    width: 60%; 
+    padding: 12px; 
+    border: 1px solid #ccc; 
+    border-radius: 4px;
+    box-sizing: border-box;  
+    margin-top: 6px; 
+    margin-bottom: 16px; 
+    resize: vertical ;
+
+}
+
+.container{
+			
+    		border: none;
+    	  	padding: 32px 32px;
+    		text-decoration: none;
+    		margin: 4px 2px;
+    		cursor: pointer;
+	
+		}
+		
+
